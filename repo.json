@@ -3682,6 +3682,18 @@
           "url": "https://github.com/grafana/strava-datasource"
         }
       ]
+    },
+    {
+      "id": "scalyr-datasource",
+      "type": "datasource",
+      "url": "https://github.com/scalyr/scalyr-grafana-datasource-plugin",
+      "versions": [
+        {
+          "version": "2.0.0",
+          "commit": "2754fd5e937c7c365a4325996f4907fd4e1e9397",
+          "url": "https://github.com/scalyr/scalyr-grafana-datasource-plugin"
+        }
+      ]
     }
   ]
 }
